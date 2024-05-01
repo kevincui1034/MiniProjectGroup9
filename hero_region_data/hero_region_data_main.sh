@@ -1,10 +1,10 @@
 #!/bin/bash
 
-./script.sh
+./region_id.sh
 
-./combine.sh
+./rename_regions.sh
 
-./clean_id.sh
+./cleanup_ids.sh
 
 ./combine_heroes.sh
 
